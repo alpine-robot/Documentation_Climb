@@ -18,7 +18,7 @@
 		{"id":"acc6d4983fb45a10","type":"text","text":"**[cl_arganello_interface](https://github.com/MalaHard-RoboTech/Climb_ros2/tree/main/cl_arganello_interface)**","x":-60,"y":-210,"width":260,"height":27,"color":"#a200fa"},
 		{"id":"90332253f51da177","type":"text","text":"**[cl_task_manager](https://github.com/MalaHard-RoboTech/Climb_ros2/tree/main/cl_task_manager)**","x":-60,"y":-177,"width":260,"height":27,"color":"#a200fa"},
 		{"id":"b2b36844f5ccc2c8","type":"text","text":"**[joy_manager_ros2](https://github.com/RubenMalacarne/joy_manager_ros2/tree/75d31a98d6f1a20544eedfe9f46f4c28e734ca40)**","x":-60,"y":-144,"width":260,"height":27,"color":"#a200fa"},
-		{"id":"74bc1b457d425b04","type":"text","text":"**[[Firmware]]**","x":-876,"y":-20,"width":128,"height":27,"color":"#321aad"},
+		{"id":"74bc1b457d425b04","type":"text","text":"**[[1_Climb_robot_Thesis/Software part/Firmware/Firmware]]**","x":-876,"y":-20,"width":128,"height":27,"color":"#321aad"},
 		{"id":"45f565f4b1041ec9","type":"text","text":"**[[Single Jump]]**","x":-876,"y":16,"width":168,"height":27,"color":"#321aad"},
 		{"id":"30962377f62328b6","type":"text","text":"**[[Multi Jump]]**","x":-876,"y":55,"width":168,"height":27,"color":"#321aad"},
 		{"id":"1c8e868fce8465b4","type":"text","text":"**[[🌐 Web_App_GUI]]**","x":-876,"y":94,"width":177,"height":27,"color":"#321aad"},

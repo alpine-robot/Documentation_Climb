@@ -86,7 +86,6 @@ F = w₁⋅(convergence) + w₂⋅(-energy) + w₃⋅(patch cost) + w₄⋅(land
 
 #### Offline optimization part:
 
-
 Per ottimizzazione offline si intende, un'ottimizzazione prima della fase di lancio, da un punto A a  un punto B.
 
 è composto da outer e inner loop:
