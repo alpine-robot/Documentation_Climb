@@ -12,7 +12,7 @@
 ---
 ## Design
 
-**Objective**: Before jumping, givean ant 3D map, create a cost_map that associates each point on the 3D map, with cost function, indicating its ease of landing and thrust. 
+**Objective**: Before jumping, givean an 3D map, create a cost_map that associates each point on the 3D map, with cost function, indicating its ease of landing and thrust. 
 We have an outer loop and inner loop to control the exact point to landing to achieve a position of the robot. 
 
 ---

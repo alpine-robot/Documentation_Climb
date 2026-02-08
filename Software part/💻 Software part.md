@@ -1,7 +1,7 @@
 Here you can find the folder about software.
 Using this link you can see also the schema about ros2 developer system: [link_drawio](https://drive.google.com/file/d/1faKwcFraMgPMh6-Kt8wuXMpUUKm8f0mt/view?usp=drive_link)
 ## Index
-- [[1_Climb_robot_Thesis/Software part/Firmware/Firmware]]
+- [[Firmware]]
 - [[Flow_of_program]]
 - [[#Single jump trajectory]]
 - [[#Multi jump trajectory optimizer]]

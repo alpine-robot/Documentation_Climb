@@ -14,7 +14,7 @@ for readme: [[README]]
 ---
 ## Schema of all structure
 this following schema represent the structure about of the our space
-![[schema.canvas]]
+![[Climb_robot/schema.canvas]]
 
 Instead the work flow communication in Software part see this schema:
 ![[Alpine_workflow.excalidraw]]
