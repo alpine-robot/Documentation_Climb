@@ -39,6 +39,19 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
   </div>
 </div>
 
+# Dalla Villa Andrea (Robotic engineer)
+
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    My main interests lie in robotics, control systems, embedded electronics, and mechatronic integration and 3D print. I enjoy working across both software and hardware, from developing control and perception algorithms to testing sensors, actuators, and embedded devices on real robotic platforms. I am particularly interested in turning high-level robotic concepts into reliable systems that can operate on real hardware, combining modelling, control, ROS-based development, electronics, and experimental validation.
+    
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="1_Climb_robot_Thesis/0_Images/luca.png" alt="A beautiful beach with white sand and clear water" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
 
 # Other Collaborators
 
