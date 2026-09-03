@@ -2,7 +2,7 @@
 
 The physical ALPINE experiment links the planner outputs to the winches, pneumatic leg and onboard attitude controller.
 
-![Pre-jump, jump and landing](../0_Images/Andrea_Dalla_Villa_2026/fig3_9_jump_sequence.png)
+![Pre-jump, jump and landing](../0_Images/fig3_9_jump_sequence.png)
 
 ## Runtime sequence
 

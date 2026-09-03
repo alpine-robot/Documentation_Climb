@@ -2,7 +2,7 @@
 
 Each ALPINE winch combines a motorised winding drum with a separate synchronous rope-measurement roller.
 
-![Winch components](../0_Images/Andrea_Dalla_Villa_2026/fig3_2_winch_components.png)
+![Winch components](../0_Images/fig3_2_winch_components.png)
 
 ## Why the synchronous roller is used
 
@@ -22,7 +22,7 @@ For each winch \(i\), the calibrated rope displacement is based on:
 - rope diameter: **0.005 m**;
 - calibrated scale factor: **2.31**.
 
-![Rope displacement convention](../0_Images/Andrea_Dalla_Villa_2026/fig3_3_rope_displacement.png)
+![Rope displacement convention](../0_Images/fig3_3_rope_displacement.png)
 
 The encoder displacement is then mapped into the reduced-model rope coordinates using configured homing offsets and side-dependent signs.
 
@@ -34,7 +34,7 @@ In the reported indoor setup, the left physical homing offset was approximately 
 
 Both winches pull the suspended robot upward until the mechanical reference is reached. The homing-relative encoder coordinates are then reset.
 
-![Homing](../0_Images/Andrea_Dalla_Villa_2026/fig3_8_homing_procedure.png)
+![Homing](../0_Images/fig3_8_homing_procedure.png)
 
 ## Rope-position controller
 

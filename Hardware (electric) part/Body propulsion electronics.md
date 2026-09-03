@@ -2,7 +2,7 @@
 
 The six-EDF propulsion system is powered and controlled independently from the low-power command signals.
 
-![Single-EDF electrical chain](../0_Images/Andrea_Dalla_Villa_2026/fig2_7_edf_electrical_chain.png)
+![Single-EDF electrical chain](../0_Images/fig2_7_edf_electrical_chain.png)
 
 ## Single EDF chain
 
@@ -30,7 +30,7 @@ The attitude controller itself updates at **100 Hz**. These are different rates:
 
 The propulsion supply uses **two 6S2P lithium-ion packs** based on INR21700-45D cells.
 
-![6S2P pack](../0_Images/Andrea_Dalla_Villa_2026/fig2_8_battery_pack.png)
+![6S2P pack](../0_Images/fig2_8_battery_pack.png)
 
 Each pack supplies three EDF-ESC branches in parallel.
 
@@ -61,7 +61,7 @@ Sensor roles:
 - **IMU2**: rigidly mounted on the body; provides the quaternion used for attitude feedback.
 - **IMU1**: mounted on the left rope-side measurement assembly; provides the rope-direction measurement used by the post-homing body-pose reconstruction.
 
-![Installed electronics and numbering](../0_Images/Andrea_Dalla_Villa_2026/fig2_9_propeller_numbering_electronics.png)
+![Installed electronics and numbering](../0_Images/fig2_9_propeller_numbering_electronics.png)
 
 ## Safety behaviour
 

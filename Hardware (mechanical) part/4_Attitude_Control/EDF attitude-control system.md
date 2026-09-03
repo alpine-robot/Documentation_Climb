@@ -2,7 +2,7 @@
 
 The current ALPINE body uses **six QX-Motor QF2611PRO 50 mm EDFs** to regulate pitch and body yaw while the two ropes remain responsible for support and in-plane motion.
 
-![Integrated body](../../0_Images/Andrea_Dalla_Villa_2026/fig2_1_integrated_body_CAD.png)
+![Integrated body](../../0_Images/fig2_1_integrated_body_CAD.png)
 
 ## Control objective
 
@@ -16,7 +16,7 @@ The installed EDF system is used for:
 
 Roll is measured but is not actively regulated by the EDFs because the two separated taut suspension lines provide a passive restoring effect in that direction.
 
-![Principal attitude-control modes](../../0_Images/Andrea_Dalla_Villa_2026/fig2_3_attitude_control_modes.png)
+![Principal attitude-control modes](../../0_Images/fig2_3_attitude_control_modes.png)
 
 ## Propeller numbering and roles
 
@@ -29,7 +29,7 @@ Roll is measured but is not actively regulated by the EDFs because the two separ
 | T5 | negative pitch correction | CCW |
 | T6 | positive pitch correction | CW |
 
-![Propeller numbering and installed electronics](../../0_Images/Andrea_Dalla_Villa_2026/fig2_9_propeller_numbering_electronics.png)
+![Propeller numbering and installed electronics](../../0_Images/fig2_9_propeller_numbering_electronics.png)
 
 ### Deterministic lateral allocation
 
@@ -73,7 +73,7 @@ The physical EDFs are unilateral and bounded:
 
 For the selected QF2611PRO EDF, the adopted upper bound is **14.03 N per EDF**.
 
-![Lateral EDF mount geometry](../../0_Images/Andrea_Dalla_Villa_2026/fig2_6_lateral_edf_geometry.png)
+![Lateral EDF mount geometry](../../0_Images/fig2_6_lateral_edf_geometry.png)
 
 ## EDF selection
 

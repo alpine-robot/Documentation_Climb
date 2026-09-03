@@ -4,9 +4,9 @@
 
 After homing, the two winches were tested separately with a +0.30 m homing-relative position step.
 
-![Left winch step](../0_Images/Andrea_Dalla_Villa_2026/fig4_8_left_winch_step.png)
+![Left winch step](../0_Images/fig4_8_left_winch_step.png)
 
-![Right winch step](../0_Images/Andrea_Dalla_Villa_2026/fig4_8_right_winch_step.png)
+![Right winch step](../0_Images/fig4_8_right_winch_step.png)
 
 Both coordinates moved in the commanded direction and approached the requested reference.
 

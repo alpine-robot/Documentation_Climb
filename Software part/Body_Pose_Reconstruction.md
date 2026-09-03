@@ -7,7 +7,7 @@ The physical ALPINE platform reconstructs body pose from:
 - the body IMU orientation;
 - fixed robot attachment geometry.
 
-![Body-pose reconstruction geometry](../0_Images/Andrea_Dalla_Villa_2026/fig3_5_body_pose_reconstruction.png)
+![Body-pose reconstruction geometry](../0_Images/fig3_5_body_pose_reconstruction.png)
 
 ## Geometry
 

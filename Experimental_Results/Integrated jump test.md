@@ -9,7 +9,7 @@ The final physical experiment combined:
 - body telemetry;
 - body-pose reconstruction.
 
-![Physical jump sequence](../0_Images/Andrea_Dalla_Villa_2026/fig3_9_jump_sequence.png)
+![Physical jump sequence](../0_Images/fig3_9_jump_sequence.png)
 
 ## Sequence
 

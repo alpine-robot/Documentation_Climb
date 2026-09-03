@@ -2,7 +2,7 @@
 
 The current real-robot software is organised around **local feedback loops** and a **high-level coordinator**.
 
-![Integrated control architecture](../0_Images/Andrea_Dalla_Villa_2026/fig3_1_control_architecture.png)
+![Integrated control architecture](../0_Images/fig3_1_control_architecture.png)
 
 ## Main control paths
 

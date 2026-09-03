@@ -2,7 +2,7 @@
 
 The pneumatic subsystem was characterised independently on the earlier suspended **5.2 kg** body at approximately **3.6 bar**.
 
-![Pneumatic actuation chain](../0_Images/Andrea_Dalla_Villa_2026/fig3_6_pneumatic_actuation.png)
+![Pneumatic actuation chain](../0_Images/fig3_6_pneumatic_actuation.png)
 
 ## Direct inlet-angle characterisation
 
@@ -17,7 +17,7 @@ Measured body-axis velocity increment at lift-off:
 | 60° | 1.71 m/s | plateau |
 | 90° | 1.74 m/s | saturated-command plateau |
 
-![Direct inlet-angle calibration](../0_Images/Andrea_Dalla_Villa_2026/fig4_6_pneumatic_calibration.png)
+![Direct inlet-angle calibration](../0_Images/fig4_6_pneumatic_calibration.png)
 
 The response is strongly nonlinear between approximately 20° and 40° and then reaches a plateau.
 
@@ -35,7 +35,7 @@ with \(m_{cal}=5.2\) kg.
 
 The configured full-open endpoint corresponds to approximately **9.62 N s**.
 
-![Inverse impulse-map check](../0_Images/Andrea_Dalla_Villa_2026/fig4_7_inverse_impulse_map.png)
+![Inverse impulse-map check](../0_Images/fig4_7_inverse_impulse_map.png)
 
 Requests above the runtime threshold are mapped to the full-open 90° command.
 

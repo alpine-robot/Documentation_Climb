@@ -12,6 +12,6 @@ The physical ALPINE body is rope-supported by two winches and uses a pneumatic l
 
 The complete integrated body is approximately **10 kg**.
 
-![Integrated ALPINE body](../0_Images/Andrea_Dalla_Villa_2026/fig2_1_integrated_body_CAD.png)
+![Integrated ALPINE body](../0_Images/fig2_1_integrated_body_CAD.png)
 
 The six-EDF system is described in [[EDF attitude-control system]].

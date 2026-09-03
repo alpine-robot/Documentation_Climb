@@ -6,7 +6,7 @@ The external interface accepts requested EDF thrust in newtons. The firmware con
 
 Six static operating points of the selected QX-Motor QF2611PRO EDF were bench checked at 24 V. The measured points were consistent with the manufacturer relationship used to construct the piecewise-linear map.
 
-![EDF thrust map](../0_Images/Andrea_Dalla_Villa_2026/fig4_1_edf_thrust_map.png)
+![EDF thrust map](../0_Images/fig4_1_edf_thrust_map.png)
 
 Important interpretation:
 - the command map is feed-forward;
@@ -63,13 +63,13 @@ Tested switching frequencies:
 
 Expected pair selection was observed at all four frequencies.
 
-![0.20 Hz yaw switching](../0_Images/Andrea_Dalla_Villa_2026/fig4_2_yaw_switch_020Hz.png)
+![0.20 Hz yaw switching](../0_Images/fig4_2_yaw_switch_020Hz.png)
 
-![0.50 Hz yaw switching](../0_Images/Andrea_Dalla_Villa_2026/fig4_3_yaw_switch_050Hz.png)
+![0.50 Hz yaw switching](../0_Images/fig4_3_yaw_switch_050Hz.png)
 
-![1.00 Hz yaw switching](../0_Images/Andrea_Dalla_Villa_2026/fig4_4_yaw_switch_100Hz.png)
+![1.00 Hz yaw switching](../0_Images/fig4_4_yaw_switch_100Hz.png)
 
-![2.00 Hz yaw switching](../0_Images/Andrea_Dalla_Villa_2026/fig4_5_yaw_switch_200Hz.png)
+![2.00 Hz yaw switching](../0_Images/fig4_5_yaw_switch_200Hz.png)
 
 These experiments verify functional pair switching and body response; they are not a complete quantitative identification of the assembled attitude dynamics.
 ## Video
