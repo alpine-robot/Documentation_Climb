@@ -1,5 +1,6 @@
 
 # Focchi Michele (Team leader)
+<img width="108" height="110" alt="immagine" src="https://github.com/user-attachments/assets/e82771a1-6ab3-44c9-a6c9-69067148499e" />
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
@@ -13,6 +14,7 @@ Michele Focchi is a leading expert in motion planning and control of quadruped r
 </div>
 
 # Malacarne Ruben (Software engineer)
+<img width="118" height="113" alt="immagine" src="https://github.com/user-attachments/assets/a543b76a-bcf1-48d6-af5b-4f158ddae184" />
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
@@ -27,6 +29,7 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
 </div>
 
 # Hardonk Luca (Mechanical engineer)
+<img width="108" height="111" alt="immagine" src="https://github.com/user-attachments/assets/7d189780-19a4-4f00-a5b9-30aa07c1a01d" />
 
 
 <div style="display: flex; align-items: center;">
@@ -40,6 +43,7 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
 </div>
 
 # Dalla Villa Andrea (Robotic engineer)
+<img width="118" height="114" alt="immagine" src="https://github.com/user-attachments/assets/dffa25e7-215e-4e5f-bfb1-2d19e214a387" />
 
 
 <div style="display: flex; align-items: center;">
