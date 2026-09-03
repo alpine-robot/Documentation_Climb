@@ -62,4 +62,8 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
 - [Luigi Palopoli](https://webapps.unitn.it/du/it/Persona/PER0002392/Curriculum)
 - [Ioannis Tsikelis](https://itsikelis.github.io/)
 - [Enrico]()
-- 
+
+
+
+<img width="925" height="351" alt="immagine" src="https://github.com/user-attachments/assets/f7c70a0c-d08b-4e35-b6d3-ddef9e85d37c" />
+
