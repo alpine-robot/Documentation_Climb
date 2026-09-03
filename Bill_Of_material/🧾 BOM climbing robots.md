@@ -1,27 +1,25 @@
 ## Abstract
 
+Here you can find the material used to build the ALPINE climbing robot.
 
+## Winch part
 
----
+Components | Description | Quantity | Cost | Total cost
+--- | --- | --- | --- | ---
+Aluminium bars |  |  |  |
+M5 screws |  |  |  |
+ |  |  |  |
 
-here you can find all material used for to build the climbing robots: 
+## ALPINE body
 
-## Winch part:
+Components | Description | Quantity | Cost | Total cost
+--- | --- | --- | --- | ---
+Aluminium bars |  |  |  |
+M5 screws |  |  |  |
+ |  |  |  |
 
+## 2026 attitude-control additions
 
-| Components      | Description | Quantity | Cost | Total_cost |
-| --------------- | ----------- | -------- | ---- | ---------- |
-| Barre alluminio |             |          |      |            |
-| Viti M5         |             |          |      |            |
-|                 |             |          |      |            |
+See [[2026 attitude-control additions]] for the propulsion, battery, body-controller and IMU items added to the integrated platform.
 
-## Alpine part
-
-| Components      | Description | Quantity | Cost | Total_cost |
-| --------------- | ----------- | -------- | ---- | ---------- |
-| Barre alluminio |             |          |      |            |
-| Viti M5         |             |          |      |            |
-|                 |             |          |      |            |
-
-For to see the BOM and know all components and their price, see this excel file--> [excel]([BOM]_list.xlsx)
-
+For the complete purchasing BOM and component prices, see the existing spreadsheet `[BOM]_list.xlsx`.

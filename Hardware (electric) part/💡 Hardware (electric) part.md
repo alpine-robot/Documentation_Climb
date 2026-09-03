@@ -1,23 +1,27 @@
 ## Abstract
 
+This section documents the electrical architecture of the winches and the ALPINE body.
 
----
-Here you can find the main schematic used to build the robot.
-there are 2 mainly part of the electric part: 
-- Winch schema
-- Climb schema
+The current integrated body includes six independently controlled EDF branches, two 6S2P lithium-ion packs, an ESP32-S3 body controller, two Movella IMUs, pneumatic servos and the existing body electronics.
 
-To follow all update about the schema you can see this link: [link](https://app.diagrams.net/#G1SWlFUtQWcLqqYK_TRkSc6NhGTX1uZMFa#%7B%22pageId%22%3A%2290a13364-a465-7bf4-72fc-28e22215d7a0%22%7D)
-
-Instead to see all components used follow the [[🧾 BOM climbing robots]].
+See the BOM in [[🧾 BOM climbing robots]] for component-level information.
 
 ---
 
-## Winch system: 
+## Winch system
+
 ![[Screenshot from 2025-08-26 16-11-01.png]]
-you can find this part in the real robot in 2 points, inside the winch and inside the electric panel
-## Alpine robot:
-![[Screenshot from 2025-08-26 16-09-46.png]]you can find this part in the real robot only inside alpine robot
 
-## Communication: 
-![[Screenshot from 2025-08-26 16-13-05.png]]  
+The winch electronics include the local embedded controller, ODrive Pro, motor, brake actuation and encoder interface.
+
+## ALPINE body
+
+![[Screenshot from 2025-08-26 16-09-46.png]]
+
+For the current propulsion and body-control architecture see [[Body propulsion electronics]].
+
+## Communication
+
+![[Screenshot from 2025-08-26 16-13-05.png]]
+
+The 2026 experimental system uses a host-to-body serial connection for body commands and telemetry. ESP-NOW was used during earlier rapid prototyping. A robust wired CAN link is proposed as future work.

@@ -1,50 +1,41 @@
-# 🤖 Climb Robot / Alpine Robot Documentation
+# 🤖 ALPINE Climbing Robot Documentation
 
-Welcome to the **Climb Robot** (also known as the **Alpine Robot**) project documentation!
+This repository collects the documentation of **ALPINE (A cLimbing robot for oPerations In mouNtain Environments)**, a rope-supported climbing robot developed for inspection and maintenance on steep and irregular mountain surfaces.
 
-This repository serves as the **main index** for all materials, tools, and notes related to the development of the Climb Robot. It is organized using **Obsidian**, a powerful knowledge base tool that helps you manage all your ideas and files in a single, connected workspace.
+The current experimental platform combines:
+- two motorised winches for rope-supported motion;
+- a pneumatic jumping leg;
+- a six-EDF attitude-control subsystem for pitch and yaw regulation;
+- onboard inertial sensing and embedded control;
+- homing-relative rope sensing and body-pose reconstruction;
+- high-level jump planning and coordinated real-robot execution.
 
-main page of the Documentation is this: [[🧠_Alpine_Documentation]]
+The documentation is organised as an Obsidian vault, but the Markdown files can also be read directly on GitHub.
 
----
+## Main documentation
 
-## 📚 What You'll Find Inside
+Open [[🧠_Alpine_Documentation]] for the complete index.
 
-- 🧩 **Electrical Components**  
-  Detailed explanations and diagrams of the robot's electrical system, including schematics and part lists.
+### Current integrated platform
 
-- ⚙️ **Physics-Based Calculations**  
-  Simulations and formulas used to select motors, gears, and other mechanical parts.
+The 2026 experimental integration adds the control layer required to operate the physical prototype as a coordinated system. The main additions are documented in:
 
-- 🧠 **Software Architecture**  and firmware
-  Overview of the control logic, including Python tools used to perform various tasks such as trajectory planning and motor control.
+- [[EDF attitude-control system]]
+- [[Body propulsion electronics]]
+- [[Attitude_Control]]
+- [[Winch_Homing_and_Position_Control]]
+- [[Body_Pose_Reconstruction]]
+- [[Jump_Execution_Pipeline]]
+- [[Experimental validation]]
 
-- 🧪 **Python Script Tools**  
-  Custom utilities developed to calculate torque, simulate dynamics, and assist with design decisions.
+## Repository structure
 
-- 🔗 **Useful References & Links**  
-  External resources to deepen your understanding of climbing robot design and robotics principles.
+- `Hardware (mechanical) part/` - mechanical design and subsystem calculations.
+- `Hardware (electric) part/` - electrical architecture, power and electronics.
+- `Software part/` - firmware, control architecture, planners and runtime flow.
+- `Experimental_Results/` - real-robot validation and actuator characterisation.
+- `Bill_Of_material/` - component lists.
+- `0_Images/` - figures and documentation assets.
+- `Thesis/` - thesis references and final-dissertation information.
 
----
-
-All files are organized within an **Obsidian vault**, with backlinks, tags, and embedded media for seamless navigation
-
----
-
-## 📥 How open the documentation:
-
-## LINUX or MACos:
-
-run file `server_doc.sh` and automatically the following web page will open
-or click this: 
-http://localhost:8080/1_climb_robot_thesis/%F0%9F%A7%A0-main_documentation.html
-## Windows 11:
-double click on `server_doc.bat` and automatically the following web page will open
-or click this: 
-http://localhost:8080/1_climb_robot_thesis/%F0%9F%A7%A0-main_documentation.html
-
-
----
-
-_🚧 This project is under active development. Contributions and feedback are welcome!_
-
+> The current integrated platform was validated functionally on the indoor wall. Quantitative trajectory accuracy, direct rope-tension measurement, automatic touchdown detection and planner-driven consecutive physical jumps remain future work.
