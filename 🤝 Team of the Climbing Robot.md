@@ -9,9 +9,12 @@
 Michele Focchi is a leading expert in motion planning and control of quadruped robots, and team leader of this project, with 16 years of experience in robotics and pioneering contributions to heuristic locomotion in unstructured terrains. His research combines control, optimization, and machine learning to improve quadruped performance in challenging environments. Currently a Professor at the University of Trento (DISI) and Scientific Advisor for All3, he was also a visiting scientist at IIT, where he co-founded the Dynamic Legged Systems Lab. He earned his B.Sc. and M.Sc. in Control Systems Engineering from Politecnico di Milano and a Ph.D. in Robotics from IIT, contributing to the Hydraulically Actuated Quadruped Robot project. Beyond academia, he has led industrial and academic projects with organizations like ESA, co-founded the MOOG-IIT joint lab, and delivered numerous invited talks. He is Associate Editor for RA-L and ICRA, has published over 53 papers, and supervised many Master’s and Ph.D. theses.
     
   </div>
-  <div style="flex: 1; text-align: right;">
-     contact: michele.focchi@unitn.it  🌐https://mfocchi.github.io/
-  </div>
+<div style="flex: 1; text-align: right;">
+  contact:
+  <a href="mailto:michele.focchi@unitn.it">Email</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  🌐 <a href="https://mfocchi.github.io/">Website</a>
+</div>
 </div>
 
 # Malacarne Ruben (Software engineer)
@@ -43,9 +46,12 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
 My goal is to build a fully autonomous humanoid robot, a dream that started with Arduino and early projects like an automated mop, parking assistant, and robotic lawn mower, which led me to learn Linux, ROS, and hardware design. At university, I built a CNC machine and a smart home system, while also exploring IT, servers, and networking. Robotics remained central with a butler robot for autonomy and AI, and I continue developing robotic arms to advance toward my vision
     
   </div>
-  <div style="flex: 1; text-align: right;">
-    contact: luca.hardonk@gmail.com  🌐https://lucahardonk.github.io/
-  </div>
+<div style="flex: 1; text-align: right;">
+  contact:
+  <a href="mailto:luca.hardonk@gmail.com">Email</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  🌐 <a href="https://lucahardonk.github.io/">Website</a>
+</div>
 </div>
 
 # Dalla Villa Andrea (Robotic engineer)
@@ -58,11 +64,14 @@ My goal is to build a fully autonomous humanoid robot, a dream that started with
 My main interests lie in robotics, control systems, embedded electronics, and mechatronic integration and 3D print. I enjoy working across both software and hardware, from developing control and perception algorithms to testing sensors, actuators, and embedded devices on real robotic platforms. I am particularly interested in turning high-level robotic concepts into reliable systems that can operate on real hardware, combining modelling, control, ROS-based development, electronics, and experimental validation.
     
   </div>
-  <div style="flex: 1; text-align: right;">
-    contact: dallavilla.a@gmail.com   <img width="20" alt="immagine" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />https://www.linkedin.com/in/andrea-dalla-villa-00bb23398/
-  </div>
+<div style="flex: 1; text-align: right;">
+  contact:
+  <a href="mailto:dallavilla.a@gmail.com">Email</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />
+  <a href="https://www.linkedin.com/in/andrea-dalla-villa-00bb23398/">LinkedIn</a>
 </div>
-
+</div>
 
 # Other Collaborators
 
