@@ -24,9 +24,13 @@ Michele Focchi is a leading expert in motion planning and control of quadruped r
 My name is Ruben Malacarne, and I am passionate about electronics, computer science, 3D mechanics, and telecommunications. From building homemade PCBs in high school to developing a high-frequency micro attenuator switch for my bachelor’s thesis, I have always pursued challenges that deepen my technical skills. After earning my Bachelor’s in Communication and Electronics Engineering, I worked at Bluetensor as an electronics engineer and 3D designer, an experience that reignited my passion for programming. I have also gained teamwork experience through the Eagle Trento Racing Team and creativity through Robowar competitions in the antweight category. Now in the final year of my Master’s degree, my goal is to absorb as much knowledge as possible and build something meaningful with the right team and mindset.
     
   </div>
-  <div style="flex: 1; text-align: right;">
-    contact: ruben.malacarne@gmail.com   <img width="20" alt="immagine" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />https://www.linkedin.com/in/ruben-malacarne/  🌐https://github.com/RubenMalacarne
-  </div>
+<div style="flex: 1; text-align: right;">
+  contact:
+  <a href="mailto:ruben.malacarne@gmail.com">Email</a>
+  <img width="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />
+  <a href="https://www.linkedin.com/in/ruben-malacarne/">LinkedIn</a>
+  🌐 <a href="https://github.com/RubenMalacarne">GitHub</a>
+</div>
 </div>
 
 # Hardonk Luca (Mechanical engineer)
