@@ -10,8 +10,8 @@ Michele Focchi is a leading expert in motion planning and control of quadruped r
     
   </div>
   <div style="flex: 1; text-align: right;">
-    - contact: michele.focchi@unitn.it
-    - [github.io](https://mfocchi.github.io/)
+    contact: michele.focchi@unitn.it
+    [github.io](https://mfocchi.github.io/)
   </div>
 </div>
 
@@ -26,9 +26,9 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
     
   </div>
   <div style="flex: 1; text-align: right;">
-    - contact: ruben.malacarne@gmail.com
-    - [LinkedIn](https://www.linkedin.com/in/ruben-malacarne/)
-    - [github.io](https://github.com/RubenMalacarne)
+    contact: ruben.malacarne@gmail.com
+    [LinkedIn](https://www.linkedin.com/in/ruben-malacarne/)
+    [github.io](https://github.com/RubenMalacarne)
   </div>
 </div>
 
@@ -43,8 +43,8 @@ My goal is to build a fully autonomous humanoid robot, a dream that started with
     
   </div>
   <div style="flex: 1; text-align: right;">
-    - contact: luca.hardonk@gmail.com
-    - [github.io](https://lucahardonk.github.io/)
+    contact: luca.hardonk@gmail.com
+    [github.io](https://lucahardonk.github.io/)
   </div>
 </div>
 
@@ -59,8 +59,8 @@ My main interests lie in robotics, control systems, embedded electronics, and me
     
   </div>
   <div style="flex: 1; text-align: right;">
-    - contact: dallavilla.a@gmail.com
-    - [LinkedIn](https://www.linkedin.com/in/andrea-dalla-villa-00bb23398/)
+    contact: dallavilla.a@gmail.com
+    [LinkedIn](https://www.linkedin.com/in/andrea-dalla-villa-00bb23398/)
   </div>
 </div>
 
