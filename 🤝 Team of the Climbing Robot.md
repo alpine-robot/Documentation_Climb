@@ -12,6 +12,9 @@ Michele Focchi is a leading expert in motion planning and control of quadruped r
 <div style="flex: 1; text-align: right;">
   contact:
   <a href="mailto:michele.focchi@unitn.it">Email</a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />
+  <a href="https://www.linkedin.com/in/michelefocchi/">LinkedIn</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   🌐 <a href="https://mfocchi.github.io/">Website</a>
 </div>
