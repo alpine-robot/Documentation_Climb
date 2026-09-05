@@ -38,7 +38,8 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
   <img width="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />
   <a href="https://www.linkedin.com/in/ruben-malacarne/">LinkedIn</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  🌐 <a href="https://github.com/RubenMalacarne">GitHub</a>
+   <img width="20" alt="GitHub" src="https://github.com/user-attachments/assets/4b8959f6-577b-4b9d-b8cd-8de51d8fc74e" />
+   <a href="https://github.com/RubenMalacarne">GitHub</a>
 </div>
 </div>
 
@@ -56,7 +57,8 @@ My goal is to build a fully autonomous humanoid robot, a dream that started with
   contact:
   <a href="mailto:luca.hardonk@gmail.com">Email</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  🌐 <a href="https://lucahardonk.github.io/">GitHub</a>
+   <img width="20" alt="GitHub" src="https://github.com/user-attachments/assets/4b8959f6-577b-4b9d-b8cd-8de51d8fc74e" />
+   <a href="https://lucahardonk.github.io/">GitHub</a>
 </div>
 </div>
 
@@ -77,7 +79,8 @@ My main interests lie in robotics, control systems, embedded electronics, and me
   <img width="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />
   <a href="https://www.linkedin.com/in/andrea-dalla-villa-00bb23398/">LinkedIn</a>  
   &nbsp;&nbsp;&nbsp;&nbsp;
-  🌐 <a href="https://andreadallavilla.github.io/">GitHub</a> 
+   <img width="20" alt="GitHub" src="https://github.com/user-attachments/assets/4b8959f6-577b-4b9d-b8cd-8de51d8fc74e" />
+   <a href="https://andreadallavilla.github.io/">GitHub</a> 
 </div>
 </div>
 
