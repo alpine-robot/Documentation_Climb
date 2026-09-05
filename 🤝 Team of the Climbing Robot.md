@@ -5,6 +5,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     Hello!
+    
 Michele Focchi is a leading expert in motion planning and control of quadruped robots, and team leader of this project, with 16 years of experience in robotics and pioneering contributions to heuristic locomotion in unstructured terrains. His research combines control, optimization, and machine learning to improve quadruped performance in challenging environments. Currently a Professor at the University of Trento (DISI) and Scientific Advisor for All3, he was also a visiting scientist at IIT, where he co-founded the Dynamic Legged Systems Lab. He earned his B.Sc. and M.Sc. in Control Systems Engineering from Politecnico di Milano and a Ph.D. in Robotics from IIT, contributing to the Hydraulically Actuated Quadruped Robot project. Beyond academia, he has led industrial and academic projects with organizations like ESA, co-founded the MOOG-IIT joint lab, and delivered numerous invited talks. He is Associate Editor for RA-L and ICRA, has published over 53 papers, and supervised many Master’s and Ph.D. theses.
     
   </div>
