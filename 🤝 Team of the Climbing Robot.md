@@ -30,8 +30,10 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
 <div style="flex: 1; text-align: right;">
   contact:
   <a href="mailto:ruben.malacarne@gmail.com">Email</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />
   <a href="https://www.linkedin.com/in/ruben-malacarne/">LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   🌐 <a href="https://github.com/RubenMalacarne">GitHub</a>
 </div>
 </div>
