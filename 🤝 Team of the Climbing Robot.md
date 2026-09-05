@@ -10,8 +10,7 @@ Michele Focchi is a leading expert in motion planning and control of quadruped r
     
   </div>
   <div style="flex: 1; text-align: right;">
-    contact: michele.focchi@unitn.it
-    - 🌐 [github.io](https://mfocchi.github.io/)
+    contact: michele.focchi@unitn.it  🌐https://mfocchi.github.io/
   </div>
 </div>
 
@@ -27,8 +26,7 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
   </div>
   <div style="flex: 1; text-align: right;">
     contact: ruben.malacarne@gmail.com
-    [LinkedIn](https://www.linkedin.com/in/ruben-malacarne/)
-    [github.io](https://github.com/RubenMalacarne)
+    <img width="10" alt="immagine" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />https://www.linkedin.com/in/ruben-malacarne/ 🌐https://github.com/RubenMalacarne
   </div>
 </div>
 
