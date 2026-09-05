@@ -71,7 +71,9 @@ My main interests lie in robotics, control systems, embedded electronics, and me
   <a href="mailto:dallavilla.a@gmail.com">Email</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />
-  <a href="https://www.linkedin.com/in/andrea-dalla-villa-00bb23398/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/andrea-dalla-villa-00bb23398/">LinkedIn</a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  🌐 <a href="https://andreadallavilla.github.io/">GitHub</a> 
 </div>
 </div>
 
