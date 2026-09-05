@@ -9,7 +9,7 @@ Michele Focchi is a leading expert in motion planning and control of quadruped r
     
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="1_Climb_robot_Thesis/0_Images/focchi.png" alt="A beautiful beach with white sand and clear water" style="max-width: 100%; height: auto;">
+    contact: michele.focchi@unitn.it
   </div>
 </div>
 
@@ -24,7 +24,7 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
     
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="1_Climb_robot_Thesis/0_Images/ruben.jpeg" alt="A beautiful beach with white sand and clear water" style="max-width: 100%; height: auto;">
+    contact: ruben.malacarne@gmail.com
   </div>
 </div>
 
@@ -38,7 +38,7 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
     
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="1_Climb_robot_Thesis/0_Images/luca.png" alt="A beautiful beach with white sand and clear water" style="max-width: 100%; height: auto;">
+    contact: luca.hardonk@gmail.com
   </div>
 </div>
 
@@ -52,7 +52,7 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
     
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="1_Climb_robot_Thesis/0_Images/luca.png" alt="A beautiful beach with white sand and clear water" style="max-width: 100%; height: auto;">
+    contact: dallavilla.a@gmail.com
   </div>
 </div>
 
