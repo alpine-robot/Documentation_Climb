@@ -35,7 +35,8 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    My goal is to build a fully autonomous humanoid robot, a dream that started with Arduino and early projects like an automated mop, parking assistant, and robotic lawn mower, which led me to learn Linux, ROS, and hardware design. At university, I built a CNC machine and a smart home system, while also exploring IT, servers, and networking. Robotics remained central with a butler robot for autonomy and AI, and I continue developing robotic arms to advance toward my vision
+    
+My goal is to build a fully autonomous humanoid robot, a dream that started with Arduino and early projects like an automated mop, parking assistant, and robotic lawn mower, which led me to learn Linux, ROS, and hardware design. At university, I built a CNC machine and a smart home system, while also exploring IT, servers, and networking. Robotics remained central with a butler robot for autonomy and AI, and I continue developing robotic arms to advance toward my vision
     
   </div>
   <div style="flex: 1; text-align: right;">
@@ -49,7 +50,8 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    My main interests lie in robotics, control systems, embedded electronics, and mechatronic integration and 3D print. I enjoy working across both software and hardware, from developing control and perception algorithms to testing sensors, actuators, and embedded devices on real robotic platforms. I am particularly interested in turning high-level robotic concepts into reliable systems that can operate on real hardware, combining modelling, control, ROS-based development, electronics, and experimental validation.
+    
+My main interests lie in robotics, control systems, embedded electronics, and mechatronic integration and 3D print. I enjoy working across both software and hardware, from developing control and perception algorithms to testing sensors, actuators, and embedded devices on real robotic platforms. I am particularly interested in turning high-level robotic concepts into reliable systems that can operate on real hardware, combining modelling, control, ROS-based development, electronics, and experimental validation.
     
   </div>
   <div style="flex: 1; text-align: right;">
