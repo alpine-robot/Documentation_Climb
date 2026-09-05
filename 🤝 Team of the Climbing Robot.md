@@ -11,7 +11,7 @@ Michele Focchi is a leading expert in motion planning and control of quadruped r
   </div>
 <div style="flex: 1; text-align: right;">
   contact:
-  <a href="mailto:michele.focchi@unitn.it">Email</a>
+  <a href="mailto:michele.focchi@unitn.it">michele.focchi@unitn.it</a>
    &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />
   <a href="https://www.linkedin.com/in/michelefocchi/">LinkedIn</a>
@@ -33,7 +33,7 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
   </div>
 <div style="flex: 1; text-align: right;">
   contact:
-  <a href="mailto:ruben.malacarne@gmail.com">Email</a>
+  <a href="mailto:ruben.malacarne@gmail.com">ruben.malacarne@gmail.com</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />
   <a href="https://www.linkedin.com/in/ruben-malacarne/">LinkedIn</a>
@@ -55,7 +55,7 @@ My goal is to build a fully autonomous humanoid robot, a dream that started with
   </div>
 <div style="flex: 1; text-align: right;">
   contact:
-  <a href="mailto:luca.hardonk@gmail.com">Email</a>
+  <a href="mailto:luca.hardonk@gmail.com">luca.hardonk@gmail.com</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
    <img width="20" alt="GitHub" src="https://github.com/user-attachments/assets/4b8959f6-577b-4b9d-b8cd-8de51d8fc74e" />
    <a href="https://lucahardonk.github.io/">GitHub</a>
@@ -74,7 +74,7 @@ My main interests lie in robotics, control systems, embedded electronics, and me
   </div>
 <div style="flex: 1; text-align: right;">
   contact:
-  <a href="mailto:dallavilla.a@gmail.com">Email</a>
+  <a href="mailto:dallavilla.a@gmail.com">dallavilla.a@gmail.com</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="20" alt="LinkedIn" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />
   <a href="https://www.linkedin.com/in/andrea-dalla-villa-00bb23398/">LinkedIn</a>  
