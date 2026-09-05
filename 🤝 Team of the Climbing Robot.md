@@ -25,8 +25,7 @@ My name is Ruben Malacarne, and I am passionate about electronics, computer scie
     
   </div>
   <div style="flex: 1; text-align: right;">
-    contact: ruben.malacarne@gmail.com
-    <img width="10" alt="immagine" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />https://www.linkedin.com/in/ruben-malacarne/ 🌐https://github.com/RubenMalacarne
+    contact: ruben.malacarne@gmail.com  <img width="20" alt="immagine" src="https://github.com/user-attachments/assets/92c039ec-f53a-4182-9655-03a521df7221" />https://www.linkedin.com/in/ruben-malacarne/ 🌐https://github.com/RubenMalacarne
   </div>
 </div>
 
